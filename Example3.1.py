@@ -1,21 +1,6 @@
 # Пример работы цикла for со строками и словарями.
 # Задача для подсчета количества символов в тексте.
 
-def char_frequency(text):
-    text = text.lower() # приведем текст в нижний регистр
-    text = text.replace(" ", "") # удалим все пробелы
-    text = text.replace("\n", "") # удалим все символы переноса строки
-
-    count = {}  # для подсчета символов и их количества
-    for char in text:
-       if char in count:  # если символ уже встречался, то увеличиваем его количество на 1
-           count[char] += 1
-       else:
-           count[char] = 1
-
-    for char, cnt in count.items():
-       print(f"Символ {char} встречается {cnt} раз")
-
 text = """
 У лукоморья дуб зелёный;
 Златая цепь на дубе том:
@@ -52,4 +37,16 @@ text = """
 Свои мне сказки говорил.
 """
 
-char_frequency(text)
+text = text.lower() # приведем текст в нижний регистр
+text = text.replace(" ", "") # удалим все пробелы
+text = text.replace("\n", "") # удалим все символы переноса строки
+
+count = {}  # для подсчета символов и их количества
+for char in text:
+   if char in count:  # если символ уже встречался, то увеличиваем его количество на 1
+       count[char] += 1
+   else:
+       count[char] = 1
+
+for char, cnt in count.items():
+   print(f"Символ {char} встречается {cnt} раз")

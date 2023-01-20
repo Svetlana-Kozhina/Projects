@@ -5,22 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7306cada-ae78-438d-93d0-0cc41dedce2b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Example14.4(1).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Example14.4(2).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Example14.4(3).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Example14.4(4).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Example14.4(5).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Example4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task14.1.5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task14.2.2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task14.2.3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task14.2.4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task14.2.5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task14.3.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Example3.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Example3.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Example3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task13.5.7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task13.5.8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task13.5.9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task13.6.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task13.7.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task13.8.10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task13.8.11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task13.8.12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task13.8.13.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task13.8.19(HW-03).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task16.6.5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Example3.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Example3.1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task13.6.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Task13.6.2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,8 +52,8 @@
     &quot;last_opened_file_path&quot;: &quot;C:/Users/AcerUser/Desktop/Света/УЧЁБА/Курс тестировщик - автоматизатор на Python/Основы Python/Git/Projects/Task13.4.8.py&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.Example14.4(1)">
-    <configuration name="Example14.4(1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Task13.8.19(HW-03)">
+    <configuration name="Task13.8.10" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Projects" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -65,7 +65,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\AcerUser\Desktop\Света\УЧЁБА\Курс тестировщик - автоматизатор на Python\Основы Python\Git\Projects\Example14.4(1).py" />
+      <option name="SCRIPT_NAME" value="C:\Users\AcerUser\Desktop\Света\УЧЁБА\Курс тестировщик - автоматизатор на Python\Основы Python\Git\Projects\Task13.8.10.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -74,7 +74,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Example4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Task13.8.11" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Projects" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -86,7 +86,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Example4.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Task13.8.11.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -95,7 +95,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Task13.6.5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Task13.8.12" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Projects" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -107,7 +107,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\AcerUser\Desktop\Света\УЧЁБА\Курс тестировщик - автоматизатор на Python\Основы Python\Git\Projects\Task13.6.5.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Task13.8.12.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -116,7 +116,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Task14.2.4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Task13.8.13" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Projects" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -128,7 +128,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Task14.2.4.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Task13.8.13.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -137,7 +137,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Task14.2.5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Task13.8.19(HW-03)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Projects" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -149,7 +149,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Task14.2.5.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Task13.8.19(HW-03).py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -158,7 +158,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Task14.3.1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Task16.6.5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Projects" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -170,7 +170,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Task14.3.1.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\AcerUser\Desktop\Света\УЧЁБА\Курс тестировщик - автоматизатор на Python\Основы Python\Git\Projects\Task16.6.5.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -181,11 +181,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Example14.4(1)" />
-        <item itemvalue="Python.Example4" />
-        <item itemvalue="Python.Task14.3.1" />
-        <item itemvalue="Python.Task14.2.5" />
-        <item itemvalue="Python.Task14.2.4" />
+        <item itemvalue="Python.Task13.8.19(HW-03)" />
+        <item itemvalue="Python.Task13.8.13" />
+        <item itemvalue="Python.Task13.8.12" />
+        <item itemvalue="Python.Task13.8.11" />
+        <item itemvalue="Python.Task13.8.10" />
       </list>
     </recent_temporary>
   </component>
@@ -199,16 +199,5 @@
       <updated>1671097176108</updated>
     </task>
     <servers />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Example4.py</url>
-          <line>11</line>
-          <option name="timeStamp" value="7" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
