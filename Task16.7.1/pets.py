@@ -15,5 +15,5 @@ for pet_dict in pets_list:
     breed = pet_dict.get('breed').get('name')
     pet = Pet(name, gender, age, breed)
     print(f'''Животное {i}''')
-    print(f'''Имя: {pet.name}\nПол: {pet.gender}\nВозраст: {pet.age}\nПорода: {pet.breed} \n''')
+    print(f'''Имя: {pet.name}\nПол: {pet.gender}\nВозраст: {pet.age}\nПорода: {pet.breed}\n''')
     i += 1
