@@ -5,15 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7306cada-ae78-438d-93d0-0cc41dedce2b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Task16.8.1/rectangle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task16.8.1/rectangle_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task16.9.1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task16.9.3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task17.5.2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task17.5.3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task17.5.7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task17.6.3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task17.9.1(HW-03).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CRYPTO_BOT/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CRYPTO_BOT/config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CRYPTO_BOT/utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CURRENCY_BOT/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CURRENCY_BOT/config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CURRENCY_BOT/extensions.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -56,8 +53,8 @@
       <recent name="C:\Users\AcerUser\Desktop\Света\УЧЁБА\Курс тестировщик - автоматизатор на Python\Основы Python\Git\Projects\Task16.8.1" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Task17.9.1(HW-03) (1)">
-    <configuration name="123" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.app (1)">
+    <configuration name="Example18.4 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Projects" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -69,7 +66,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/123.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Example18.4.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -78,7 +75,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Task12.7" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Example18.4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Projects" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -90,28 +87,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Task12.7.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Task17.6.3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Projects" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Task17.6.3.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\AcerUser\Desktop\Света\УЧЁБА\Курс тестировщик - автоматизатор на Python\Основы Python\Git\Projects\Example18.4.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -141,7 +117,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Task17.9.1(HW-03)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="app (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Projects" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -149,11 +125,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CURRENCY_BOT" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\AcerUser\Desktop\Света\УЧЁБА\Курс тестировщик - автоматизатор на Python\Основы Python\Git\Projects\Task17.9.1(HW-03).py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CURRENCY_BOT/app.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Projects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CRYPTO_BOT" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CRYPTO_BOT/app.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -164,11 +161,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.app (1)" />
+        <item itemvalue="Python.app" />
+        <item itemvalue="Python.Example18.4 (1)" />
+        <item itemvalue="Python.Example18.4" />
         <item itemvalue="Python.Task17.9.1(HW-03) (1)" />
-        <item itemvalue="Python.123" />
-        <item itemvalue="Python.Task12.7" />
-        <item itemvalue="Python.Task17.9.1(HW-03)" />
-        <item itemvalue="Python.Task17.6.3" />
       </list>
     </recent_temporary>
   </component>
